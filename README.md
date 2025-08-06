@@ -1,16 +1,40 @@
-## Hi there 👋
+Hi there 👋, I'm Anees Ul Rehman
 
-<!--
-**Anees-Ul-Rehman/Anees-Ul-Rehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Learner | Future AI & ML Developer
+🚀 Learning Path:** Python Basics → Automation → Web Scraping → Flask Development → AI/ML  
+📚 Goal:** Master Python from scratch to advanced so I can build real-world projects and AI-powered applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 About Me
+- 🌱 Currently learning **Python** (basics, data types, loops, functions, OOP).
+- 🎯 Next step: Python Automation → Web Scraping → Flask Development → AI & Machine Learning.
+- 💡 Interested in Artificial Intelligence, Machine Learning, and Automation.
+- 📍 Based in Umerkot, Sindh, Pakistan.
+- 📫 How to reach me: aneesulrehman2025@gmail.com
+
+---
+
+🛠 Skills (In Progress)
+- Languages: Python (Learning)
+- Tools & Platforms: GitHub, VS Code
+- Future Skills: Automation, Web Scraping, Flask, AI, ML
+
+---
+
+📈 My Learning Goals for 2025
+- ✅ Complete Python fundamentals
+- ✅ Learn and practice Automation with Python
+- ✅ Build Web Scraping projects
+- ✅ Create small Flask web apps
+- 🚀 Start AI & Machine Learning_journey
+
+---
+
+📬 Connect with Me
+- Email: aneesulrehman2025@gmail.com
+- GitHub: https://github.com/Anees-Ul-Rehman/Anees-Ul-Rehman
+
+---
+⭐ Follow my journey as I grow from a Python beginner to an AI & ML developer!
+
