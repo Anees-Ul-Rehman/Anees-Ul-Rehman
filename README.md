@@ -3,10 +3,11 @@
 💻 **Python Learner | Future AI & ML Developer**  
 🚀 **Learning Path:** Python Basics → Automation → Web Scraping → Flask Development → AI/ML  
 📚 **Goal:** Master Python from scratch to advanced so I can build real-world projects and AI-powered applications.
-![Python](https://img.shields.io/badge/Python-Learning-blue?logo=python)
-![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)
-![Location](https://img.shields.io/badge/Location-Umerkot-green?logo=google-maps)
-![Gmail](https://img.shields.io/badge/Email-aneesulrehman2025@gmail.com-red?logo=gmail)
+[![Python](https://img.shields.io/badge/Python-Learning-blue?logo=python)](https://www.python.org)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Anees-Ul-Rehman)
+[![Location](https://img.shields.io/badge/Location-Umerkot-green?logo=google-maps)](https://www.google.com/maps/place/Umerkot)
+[![Gmail](https://img.shields.io/badge/Email-aneesulrehman2025@gmail.com-red?logo=gmail)](mailto:aneesulrehman2025@gmail.com)
+
 
 ---
 
