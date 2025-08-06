@@ -1,4 +1,4 @@
-Hi there 👋, I'm Anees Ul Rehman
+**Hi there**👋, I'm Anees Ul Rehman
 
 💻 Python Learner | Future AI & ML Developer
 🚀 Learning Path:** Python Basics → Automation → Web Scraping → Flask Development → AI/ML  
