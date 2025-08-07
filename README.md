@@ -27,7 +27,7 @@
 
 ---
 
-## 📈 My Learning Goals for 2025
+## 📈 My Learning Goals for 2025 to 2026
 - ✅ Complete **Python fundamentals**
 - ✅ Learn and practice **Automation with Python**
 - ✅ Build **Web Scraping projects**
